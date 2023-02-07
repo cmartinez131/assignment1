@@ -1,16 +1,41 @@
 body {
     background-color: lightgray;
+    color: black;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 18px;
 }
 
 img {
-    height: 200px;
+    height: 250px;
     width: auto;
-  }
+}
 
-  table, th, td {
+table, th, td {
     border: 1px solid black;
-  }
+}
 
-  th, td {
+th, td {
     padding: 10px;
-  }
+}
+
+.page-link {
+  font-size: 20px;
+}
+
+.table-data {
+    font-size: 18px;
+}
+
+.button {
+    height: 50px;
+}
